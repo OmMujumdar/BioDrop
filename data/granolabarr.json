@@ -1,0 +1,10 @@
+{
+  "name": "Granola Bar",
+  "bio": "Student learning open source!",
+  "links": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/YOUR_USERNAME"
+    }
+  ]
+}
